@@ -16,10 +16,15 @@ General Secondary Education Certificate (Math department( with 98.9%
 ### courses
 
 -Data Structure Course by Udemy (2023)
+
 -Artificial Intelligence by ITI (summer 2023)
+
 -Machine Learning Specialization by Coursera from Stanford University (2023)
+
 -Intro to Deep Learning by Kaggle (2023)
+
 -Intro to Computer Vision by Kaggle (2023)
+
 -Deep Learning  Specialization by Coursera from Stanford University (2024)
 
 
