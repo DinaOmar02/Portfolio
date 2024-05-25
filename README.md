@@ -1,16 +1,15 @@
 # DataScientist
-Data Science, ML ,AI Engineering student
+Data Science, ML , AI Engineering student
 
 
 ### Education
 
 Computer and Systems Engineering | Minia University
 2020 – 2025
-3rd Year Student
-GPA 3.5
+3rd Year Student, GPA 3.5
 
 secondary school for girls at new Minya | Minya, Egypt
-General Secondary Education Certificate (Math department( with 98.9%
+General Secondary Education Certificate (Math department) with 98.9%
 
 
 ### courses
